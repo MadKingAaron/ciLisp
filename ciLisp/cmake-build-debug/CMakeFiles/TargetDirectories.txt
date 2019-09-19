@@ -1,0 +1,3 @@
+/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/cmake-build-debug/CMakeFiles/cilisp.dir
+/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/cmake-build-debug/CMakeFiles/edit_cache.dir

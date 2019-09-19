@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ciLispSrc/ciLisp.h
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+string.h
+-
+math.h
+-
+stdbool.h
+-
+ciLispParser.h
+../ciLispSrc/ciLispParser.h
+
+/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/ciLispSrc/ciLisp.c
+ciLisp.h
+/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/ciLispSrc/ciLisp.h
+
+/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/ciLispSrc/ciLisp.h
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+string.h
+-
+math.h
+-
+stdbool.h
+-
+ciLispParser.h
+/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/ciLispSrc/ciLispParser.h
+
+/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/cmake-build-debug/ciLispParser.c
+ciLisp.h
+/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/cmake-build-debug/ciLisp.h
+stddef.h
+-
+libintl.h
+-
+alloca.h
+-
+malloc.h
+-
+stdlib.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/cmake-build-debug/ciLispScanner.c
+stdio.h
+-
+string.h
+-
+errno.h
+-
+stdlib.h
+-
+inttypes.h
+-
+ciLisp.h
+/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/cmake-build-debug/ciLisp.h
+unistd.h
+-
+
+ciLispParser.h
+

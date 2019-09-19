@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Aaron Jimenez/Desktop/ciLisp Tasks/ciLisp/ciLisp Tasks/ciLisp Complete (Clean-up)/ciLisp/cmake-build-debug
